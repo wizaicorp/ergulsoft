@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "site": {
+    "name": "Ergulsoft",
+    "title": "Ergulsoft",
+    "slogan": "Kısa ve çarpıcı sloganınız buraya",
+    "description": "Ergulsoft — güvenilir hizmet, uygun fiyat.",
+    "logo": "",
+    "favicon": "",
+    "lang": "tr"
+  },
+  "theme": {
+    "template": "hizmet",
+    "preset": "gece",
+    "font": "modern",
+    "radius": 16,
+    "primary": "",
+    "accent": ""
+  },
+  "banner": {
+    "headline": "Ergulsoft",
+    "subline": "Bir cümleyle ne yaptığınızı anlatın.",
+    "image": "",
+    "cta_text": "Hemen Ara",
+    "cta_link": "tel:",
+    "cta2_text": "WhatsApp",
+    "cta2_link": "",
+    "overlay": 55
+  },
+  "about": {
+    "title": "Hakkımızda",
+    "text": "Firmanızı birkaç cümleyle tanıtın. Kaç yıldır bu işi yaptığınız, farkınızın ne olduğu müşteriye güven verir.",
+    "image": "",
+    "stats": [
+      {
+        "value": "10+",
+        "label": "Yıllık Tecrübe"
+      },
+      {
+        "value": "500+",
+        "label": "Mutlu Müşteri"
+      },
+      {
+        "value": "7/24",
+        "label": "Destek"
+      }
+    ]
+  },
+  "services": [
+    {
+      "id": "d996abb1",
+      "icon": "⚡",
+      "title": "Hizmet Bir",
+      "text": "Bu hizmeti kısaca anlatın.",
+      "image": ""
+    },
+    {
+      "id": "7edbc8b5",
+      "icon": "🛡️",
+      "title": "Hizmet İki",
+      "text": "Bu hizmeti kısaca anlatın.",
+      "image": ""
+    },
+    {
+      "id": "bc3a074d",
+      "icon": "🚚",
+      "title": "Hizmet Üç",
+      "text": "Bu hizmeti kısaca anlatın.",
+      "image": ""
+    }
+  ],
+  "products": [],
+  "gallery": [],
+  "contact": {
+    "phone": "",
+    "whatsapp": "",
+    "email": "ergnkrds58@gmail.com",
+    "address": "",
+    "map_query": "",
+    "hours": [
+      {
+        "day": "Pazartesi - Cuma",
+        "time": "09:00 - 18:00"
+      },
+      {
+        "day": "Cumartesi",
+        "time": "09:00 - 14:00"
+      },
+      {
+        "day": "Pazar",
+        "time": "Kapalı"
+      }
+    ],
+    "form_endpoint": ""
+  },
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "x": "",
+    "youtube": "",
+    "tiktok": "",
+    "linkedin": ""
+  },
+  "sections": {
+    "order": [
+      "banner",
+      "services",
+      "about",
+      "products",
+      "gallery",
+      "contact"
+    ],
+    "enabled": {
+      "banner": true,
+      "services": true,
+      "about": true,
+      "products": true,
+      "gallery": true,
+      "contact": true
+    }
+  },
+  "seo": {
+    "keywords": "",
+    "og_image": ""
+  }
+}
